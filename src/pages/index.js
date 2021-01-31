@@ -41,35 +41,35 @@ class HomeIndex extends React.Component {
                                 <h3>My Art Things</h3>
                                 <p>Feldman's Model and the design cycle aren't so different</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="https://mortluna.myportfolio.com/" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
                                 <h3>My Programming Things</h3>
                                 <p>don't commit to git unless git commits to you</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/programming" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
                                 <h3>My Game Things</h3>
                                 <p>gamers unite (and unionize)</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/games" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
                                 <h3>STEM Educator</h3>
                                 <p>kids are the future and i want the future to be good</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/stem_education" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
                                 <h3>Awards and Achievements</h3>
                                 <p>Sometimes it's nice to be recognized</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/awards" className="link primary"></Link>
                         </article>
                     </section>
                     <section id="two">
