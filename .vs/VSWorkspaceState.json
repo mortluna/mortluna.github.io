@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\components"
+    "\\src\\assets",
+    "\\src\\assets\\scss\\components",
+    "\\src\\components",
+    "\\src\\pages"
   ],
-  "SelectedNode": "\\src\\components\\Banner.js",
+  "SelectedNode": "\\src\\pages\\landing.js",
   "PreviewInSolutionExplorer": false
 }

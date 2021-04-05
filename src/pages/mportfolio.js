@@ -4,21 +4,22 @@ import Layout from '../components/layout'
 
 import pic11 from '../assets/images/pic11.jpg'
 
-const Programming = (props) => (
+const Awards = (props) => (
     <Layout>
         <Helmet>
-            <title>My Programming Portfolio</title>
-            <meta name="description" content="My programming portfolio" />
+            <title>Awards</title>
+            <meta name="description" content="Awards" />
         </Helmet>
 
         <div id="main" className="alt">
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h1>My Programming Portfolio</h1>
+                        <h1>Awards and Achievements</h1>
                     </header>
                     <span className="image main"><img src={pic11} alt="" /></span>
-                    <p>I'm still working on building this website, but in the meantime, <a href="https://docs.google.com/document/d/1JXySsKgIbtZjvvxsk87-tYGqD8lYd_vZKC7iP-1iSUs/edit?usp=sharing"> here's a link to a summary of my programming portfolio.</a></p>
+                    <p>My website is still under construction, but you can find the short list
+                    of awards I received on my <a href="https://www.linkedin.com/in/mariana-ortiz-luna-b36217184/">LinkedIn</a></p>
                 </div>
             </section>
         </div>
@@ -26,4 +27,4 @@ const Programming = (props) => (
     </Layout>
 )
 
-export default Programming
+export default Awards

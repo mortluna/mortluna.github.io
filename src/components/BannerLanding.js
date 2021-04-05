@@ -9,7 +9,7 @@ const BannerLanding = (props) => (
             <div className="content">
                 <p>Currently a sophomore studying Computer Science
                 and statistics at the University of Michigan's
-                College of Engineering. I'm really passionate
+                College of Engineering. Passionate
                 about learning, delivering results, and being
                     able to help people the best ways I know how.</p>
             </div>

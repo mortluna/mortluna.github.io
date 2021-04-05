@@ -31,15 +31,15 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
-                                <h3>Click on me!</h3>
-                                <p>A fun tidbit I built</p>
+                                <h3>About Me</h3>
+                                <p>Some of my background and goals</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
                                 <h3>My Art Things</h3>
-                                <p>Feldman's Model and the design cycle aren't so different</p>
+                                <p>Feldman's Model and the engineering design cycle aren't so different</p>
                             </header>
                             <Link to="https://mortluna.myportfolio.com/" className="link primary"></Link>
                         </article>
@@ -53,21 +53,21 @@ class HomeIndex extends React.Component {
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
                                 <h3>My Game Things</h3>
-                                <p>gamers unite (and unionize)</p>
+                                <p>the perfect blend of art and programming</p>
                             </header>
                             <Link to="/games" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
-                                <h3>STEM Educator</h3>
-                                <p>kids are the future and i want the future to be good</p>
+                                <h3>STEM Education</h3>
+                                <p>i like teaching!</p>
                             </header>
                             <Link to="/stem_education" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
-                                <h3>Awards and Achievements</h3>
-                                <p>Sometimes it's nice to be recognized</p>
+                                <h3>MPortfolio</h3>
+                                <p>For the Engineering Honors Program</p>
                             </header>
                             <Link to="/awards" className="link primary"></Link>
                         </article>
@@ -84,7 +84,7 @@ class HomeIndex extends React.Component {
                             diversity of experiences, and I believe I bring a unique perspective
                             to many problems. I'm a quick thinker and I love to analyze
                             concepts and situations to determine the best course of action.
-                                If you're interested in learning more about me, please continue!</p>
+                                If you're interested in talking about any of my work, my contact info is below!</p>
                             <ul className="actions">
                                 <li><Link to="/landing" className="button next">Learn more</Link></li>
                             </ul>
