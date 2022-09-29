@@ -7,9 +7,9 @@ const Banner = (props) => (
                 <h1>Hi, I'm Mariana!</h1>
             </header>
             <div className="content">
-                <p>I really like making things and helping people!
-                    If you're here I hope you learn something new :) 
-                    My website is still under development, so check back soon for updates!</p>
+                <p>"The key to good decision making is not knowledge. It is understanding. We are swimming in the former. We are desperately lacking in the latter."
+                    - Malcolm Gladwell, <i>Blink: The Power of Thinking Without Thinking</i><br />
+                    I believe it's not enough to simply collect data, we must look to its thorough analysis in order to truly understand the story it's trying to tell.</p>
                 <ul className="actions">
                     <li><a href="#one" className="button next scrolly">My Work</a></li>
                 </ul>

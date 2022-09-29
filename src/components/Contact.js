@@ -3,7 +3,6 @@ import React from 'react'
 const Contact = (props) => (
     <section id="contact">
         <div className="inner">
-
             <section className="split">
                 <section>
                     <div className="contact-method">
@@ -23,7 +22,7 @@ const Contact = (props) => (
                     <div className="contact-method">
                         <span className="icon alt fa-home"></span>
                         <h3>Address</h3>
-                        <span>205 Martha Cook Building<br />
+                        <span>906 S University Ave<br />
                         Ann Arbor, MI 48390<br />
                         United States of America</span>
                     </div>

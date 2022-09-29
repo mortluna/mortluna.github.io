@@ -3,10 +3,13 @@
     "",
     "\\src",
     "\\src\\assets",
+    "\\src\\assets\\scss",
     "\\src\\assets\\scss\\components",
+    "\\src\\assets\\scss\\layout",
+    "\\src\\assets\\scss\\libs",
     "\\src\\components",
     "\\src\\pages"
   ],
-  "SelectedNode": "\\src\\pages\\landing.js",
+  "SelectedNode": "\\src\\components\\Contact.js",
   "PreviewInSolutionExplorer": false
 }
